@@ -1,4 +1,0 @@
-xmcms
-=====
-
-xmcms.com
